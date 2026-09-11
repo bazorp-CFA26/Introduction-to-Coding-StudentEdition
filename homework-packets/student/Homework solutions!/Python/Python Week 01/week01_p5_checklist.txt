@@ -1,0 +1,5 @@
+- Open the terminal
+- Navigate to folder
+- Run python {Name}.py
+- Read output
+- Fix the errors and rerun
