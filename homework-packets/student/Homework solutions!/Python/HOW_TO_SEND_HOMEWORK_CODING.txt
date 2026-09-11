@@ -9,4 +9,4 @@ Under Select scopes, tick the single box named repo. That is all you need.
 Scroll down and click Generate token.
 Copy the token right now and keep it somewhere safe (a password manager is ideal). GitHub shows it only once. It looks like ghp_xxxxxxxxxxxxxxxx. Treat it like a password — never paste it into your code or share it with anyone.
 
-!IMPORTANTE! TOKEN: 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
+!IMPORTANTE! TOKEN: 
