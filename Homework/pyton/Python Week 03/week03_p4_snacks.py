@@ -1,0 +1,5 @@
+plyrcnt=int(input("How many travelers are in your party? "))
+snkcnt=int(input("And how many rations do you have? "))
+print ("total snacks equal", snkcnt)
+print ("you have", plyrcnt, "people in your party...")
+print ("Ah! so each person will get", snkcnt/plyrcnt, "rations.")
