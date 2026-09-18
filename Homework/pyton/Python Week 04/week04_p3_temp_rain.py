@@ -1,5 +1,5 @@
 temp=int(input("Input Tempature: "))
-rain=str(input("Is It Raining? (Yes/No) "))
+rain=str(input("Is It Raining? (yes/No) "))
 if rain=="yes" and temp<=60:
     print("Wear a coat and bring an umbralla bruh")
 elif rain=="yes" and temp>60:
