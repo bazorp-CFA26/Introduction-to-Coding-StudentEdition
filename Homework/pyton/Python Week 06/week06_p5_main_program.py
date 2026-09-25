@@ -7,7 +7,7 @@ def add1(a, b):
 def x1(x, y):
     return (x*y)
 
-Login1("User_1")
+Login1("Kris")
 print("Loading multiplication... result:", x1(7, 2))
 print("Addition result:", add1(90, 7012))
 print("Log out?")
